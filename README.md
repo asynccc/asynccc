@@ -13,4 +13,4 @@
 
 ![Async Github Stats](https://github-readme-stats.vercel.app/api?username=asynccc&hide_title=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&custom_title=Linguagens+mais+usadas&layout=compact&theme=dark)](https://github.com/asynccc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&card_width=455&custom_title=Linguagens+mais+usadas&layout=compact&theme=dark)](https://github.com/asynccc)
