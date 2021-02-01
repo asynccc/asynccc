@@ -11,3 +11,6 @@
 
 ## 📊 ***Statistics***
 
+![Async Github Stats](https://github-readme-stats.vercel.app/api?username=asynccc&&count_private=true&hide_title=true&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&card_width=445&langs_count=5&custom_title=Linguagens+mais+usadas&theme=dracula&layout=compact)](https://github.com/asynccc)
