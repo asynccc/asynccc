@@ -12,4 +12,7 @@
 
 ## 📊 ***Statistics***
 
-![Async Github Stats](https://github-readme-stats.vercel.app/api?username=asynccc&hide_title=true&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&custom_title=Linguagens+mais+usadas&theme=tokyonight)](https://github.com/asynccc)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=asynccc&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&show_icons=true&theme=radical" height="195px">
+</p>
