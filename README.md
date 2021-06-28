@@ -14,6 +14,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asynccc&show_icons=true&theme=radical">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Jaoow?style=for-the-badge" width="97" height="29"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=asynccc?style=for-the-badge" width="97" height="29"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asynccc&show_icons=true&theme=radical" height="195px">
 </p>
